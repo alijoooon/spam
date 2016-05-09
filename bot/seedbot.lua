@@ -219,7 +219,7 @@ function create_config( )
     "spammer1",
     "spammer2"
     },
-    sudo_users = {212990316},--Sudo users
+    sudo_users = {215930030},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
 
@@ -229,6 +229,7 @@ Commands list :
 !spam number text
 
 !avast number text
+angri mame 85 ♥
 
 ]]
   }
