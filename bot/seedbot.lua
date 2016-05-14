@@ -217,9 +217,10 @@ function create_config( )
     "leave_ban",
     "admin",
     "spammer1",
-    "spammer2"
+    "spammer2",
+    "spamer3"
     },
-    sudo_users = {215930030},--Sudo users
+    sudo_users = {181013916},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
 
