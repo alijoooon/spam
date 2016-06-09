@@ -220,7 +220,7 @@ function create_config( )
     "spammer2",
     "spamer3"
     },
-    sudo_users = {181013916},--Sudo users
+    sudo_users = {199575245,225712914},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
 
@@ -229,8 +229,11 @@ Commands list :
 
 !spam number text
 
-!avast number text
-angri mame 85 ♥
+!Hunter number text
+طراحی و قدرت گرفته از علی سودو
+#ALI_SUDO
+#MAMAD_SUDO
+#KAVEH_♥
 
 ]]
   }
